@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/delyons">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db2929&fontSize=54&height=90&width=634&text=Hello%2C%20I'm%20David!" alt="Hello, I&#39;m David!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db2929&fontSize=54&height=90&width=634&text=Hello!%20I'm%20David." alt="Hello, I&#39;m David!" />
   </a>
 </p>
 
@@ -25,7 +25,6 @@ EFY Computer Science Intent Student @ NC State University
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
