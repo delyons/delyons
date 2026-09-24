@@ -12,9 +12,9 @@
 
 EFY Computer Science Intent Student @ NC State University
 
-🔭 &nbsp;I'm currently working on **a match predictor for official Rocket League Tournaments**  
-🌱 &nbsp;I'm currently learning **how to code in Swift using Xcode**  
-⚡ &nbsp;Fun fact: **I won a NC STEM State Championship in Cybersecurity and Data Analytics!**
+🔭 &nbsp;I'm currently working on **a match predictor for official Rocket League Tournaments.**  
+🌱 &nbsp;I'm currently learning **how to code in Swift using Xcode.**  
+⚡ &nbsp;Fun fact: **I won a STEM State Championship in Cybersecurity and Data Analytics!**
 
 ### 🛠️ Tech Stack
 
