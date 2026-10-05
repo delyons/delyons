@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-BS in Computer Science Intent Student @ NC State University
+BS in Computer Science Intent @ NC State University
 
 🔭 &nbsp;I'm currently working on **a quiz-based NC State meal plan and housing recommender web app.**  
 🌱 &nbsp;I'm currently learning **how to code in Swift using Xcode, and how to collaborate with Git and GitHub.**  
