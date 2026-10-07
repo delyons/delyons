@@ -12,7 +12,7 @@
 
 BS in Computer Science Intent @ NC State University
 
-🔭 &nbsp;I'm currently working on **a quiz-based NC State meal plan and housing recommender web app.**  
+🔭 &nbsp;I'm currently working on **PackPick: a quiz-based NC State meal plan and housing recommender web app.**  
 🌱 &nbsp;I'm currently learning **how to code in Swift using Xcode, and how to collaborate with Git and GitHub.**  
 ⚡ &nbsp;Fun fact: **I won the Spring 2025 NC VESL State Championship in Cybersecurity and Data Analytics!**
 
